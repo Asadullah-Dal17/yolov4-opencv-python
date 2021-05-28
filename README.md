@@ -1,13 +1,27 @@
-# yolov4-opencv-python
+# Yolov4-opencv-python
 
 yolov4 object detection using opencv python, its simplest way to run inference on yolo
 
 implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
 
+---
+
+## Installation you need opencv-contrib-python
+
+[opencv contrib](https://pypi.org/project/opencv-contrib-python/)
+
+--> **windows**
+
+`pip install opencv-contrib-python`
+--> **Linux or Mac**
+`pip3 install opencv-contrib-python`
+
+then just clone this repository and you are good to go.
+
 I have use tiny weights, check out more on darknet github for more
 
-I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
+- [ ] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
 
-check out my Youtube channel, I have ton content available on my youtube channel, [AiPhle](https://youtube.come/c/aiphle)
+check out my Youtube channel, I have ton of content available on my youtube channel regarding computer vision, [AiPhle](https://youtube.come/c/aiphle).
 
 thank you so much,
