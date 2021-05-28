@@ -13,7 +13,9 @@ implementation detail available on [_**Darknet**_](https://github.com/pjreddie/d
 --> **windows**
 
 `pip install opencv-contrib-python`
+
 --> **Linux or Mac**
+
 `pip3 install opencv-contrib-python`
 
 then just clone this repository and you are good to go.
