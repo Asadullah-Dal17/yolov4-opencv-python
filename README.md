@@ -24,6 +24,8 @@ I have use tiny weights, check out more on darknet github for more
 
 - [ ] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
 
+[**Video Tutorial**](https://youtu.be/1aL6tewfxFY)
+
 check out my Youtube channel, I have ton of content available on my youtube channel regarding computer vision, [AiPhle](https://youtube.come/c/aiphle).
 
 thank you so much,
