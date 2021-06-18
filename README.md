@@ -2,6 +2,8 @@
 
 yolov4 object detection using opencv python, its simplest way to run inference on yolo
 
+https://user-images.githubusercontent.com/66181793/122593546-41e6c980-d07f-11eb-8e18-bcc63d550183.mp4
+
 implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
 
 ---
@@ -29,3 +31,11 @@ I have use tiny weights, check out more on darknet github for more
 check out my Youtube channel, I have ton of content available on my youtube channel regarding computer vision, [AiPhle](https://youtube.come/c/aiphle).
 
 thank you so much,
+
+
+
+
+
+
+
+
