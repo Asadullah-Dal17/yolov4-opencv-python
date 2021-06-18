@@ -26,6 +26,8 @@ I have use tiny weights, check out more on darknet github for more
 
 [**Video Tutorial**](https://youtu.be/1aL6tewfxFY)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1aL6tewfxFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 check out my Youtube channel, I have ton of content available on my youtube channel regarding computer vision, [AiPhle](https://youtube.come/c/aiphle).
 
 thank you so much,
