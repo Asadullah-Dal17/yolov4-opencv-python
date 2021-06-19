@@ -1,18 +1,28 @@
 # Yolov4-opencv-python
 
-yolov4 object detection using opencv python, its simplest way to run inference on yolo
+Yolov4 object detection using opencv python, its simplest way to run inference on yolo V4
 
 ## YoloV4 objector Demo Video
 
 https://user-images.githubusercontent.com/66181793/122593546-41e6c980-d07f-11eb-8e18-bcc63d550183.mp4
 
-implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
+---
+
+Implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
+
+All the Frozen-Inference graph (pre-trained network) available on Darknet
 
 ---
 
-## Installation you need opencv-contrib-python
+## TODO
 
-[opencv contrib](https://pypi.org/project/opencv-contrib-python/)
+- [x] [**YoloV4 object detector with opencv-python implementation**](https://youtu.be/1aL6tewfxFY)
+
+- [ ] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
+
+## Installation
+
+You Need [**Opencv Contrib**](https://pypi.org/project/opencv-contrib-python/)
 
 --> **windows**
 
@@ -22,13 +32,15 @@ implementation detail available on [_**Darknet**_](https://github.com/pjreddie/d
 
 `pip3 install opencv-contrib-python`
 
-then just clone this repository and you are good to go.
+### Clone this repo
 
-I have use tiny weights, check out more on darknet github for more
+`git clone https://github.com/Asadullah-Dal17/yolov4-opencv-python`
 
-- [ ] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
+Guess what you are done that was not hard, isn't it.😉
 
-[**Video Tutorial**](https://youtu.be/1aL6tewfxFY)
+I have use tiny weights, check out more on [_Darknet_](https://github.com/pjreddie/darknet) github for more
+
+Check out my Complete Video Tutorial on Yolov4 object detection YouTube [**Video Tutorial**](https://youtu.be/1aL6tewfxFY)
 
 check out my Youtube channel, I have ton of content available on my youtube channel regarding computer vision, [AiPhle](https://youtube.come/c/aiphle).
 
