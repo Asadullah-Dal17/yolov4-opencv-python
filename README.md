@@ -18,7 +18,8 @@ All the Frozen-Inference graph (pre-trained network) available on Darknet
 
 - [x] [**YoloV4 object detector with opencv-python implementation**](https://youtu.be/1aL6tewfxFY)
 
-- [ ] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
+- [x] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊
+Project Repository [Yolov4 Detection and Distance Estimation](https://github.com/Asadullah-Dal17/Yolov4-Detector-and-Distance-Estimator) 
 
 ## Installation
 
@@ -41,11 +42,6 @@ Guess what you are done that was not hard, isn't it.😉
 I have use tiny weights, check out more on [_Darknet_](https://github.com/pjreddie/darknet) github for more
 
 Check out my Complete Video Tutorial on Yolov4 object detection YouTube [**Video Tutorial**](https://youtu.be/1aL6tewfxFY)
-
-
-
-- [x] I will create distance estimation using yolo object detection, its coming up soon In sha Allah 😊  
-Project Repository [Yolov4 Distance Estiamtion](https://github.com/Asadullah-Dal17/Yolov4-Detector-and-Distance-Estimator) 
 
 
 if You found this Helpful, please star :star: it.
